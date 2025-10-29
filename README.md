@@ -44,7 +44,7 @@ npm run dev-server
 ## Screenshots
 
     
-![Game Screenshot](saucer-game/docs/screenshot.png)
+![Game Screenshot](https://github.com/LaMesker/saucer-game-JS/blob/main/Screenshots/game.png)
 
 
 ## Notes
